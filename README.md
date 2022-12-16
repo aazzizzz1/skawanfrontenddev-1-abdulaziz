@@ -2,8 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Website SkawanFrontEndDev-1-AbdulAziz :
-Click : [https://skawanfrontenddev-1-abdulaziz.netlify.app/]
+Website SkawanFrontEndDev-1-AbdulAziz 
+
+Click : https://skawanfrontenddev-1-abdulaziz.netlify.app/
 
 ## Available Scripts
 ## 'npm install react-scripts'
