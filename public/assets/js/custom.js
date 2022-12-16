@@ -1,4 +1,6 @@
+/* eslint-disable no-undef */
 $(document).ready(function(){
+	// eslint-disable-next-line strict
 	"use strict";
     
         /*==================================

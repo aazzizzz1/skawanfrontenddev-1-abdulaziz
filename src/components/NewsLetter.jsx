@@ -7,21 +7,40 @@ const NewsLetter = () => {
             <div class="container">
                 <div class="hm-footer-details">
                     <div class="row">
+                    <div class=" col-md-3 col-sm-6 col-xs-12">
+                            <div class="hm-footer-widget">
+                                <div class="hm-foot-title">
+                                    <img src="assets/logo/deko.png" alt="" />
+                                </div>
+                                {/* <!--/.hm-foot-title--> */}
+                                <div class="desc">
+                                    <ul>
+                                        <li>Dekoor is a furniture company created to 
+                                        fulfill the needs of family with aesthetic feeling in their furniture. 
+                                        Always pay attention to details and give clear communication for the customers. 
+                                        Priority of our design is comfortability. </li>
+                                    </ul>
+                                    {/* <!--/ul--> */}
+                                </div>
+                                {/* <!--/.hm-foot-menu--> */}
+                            </div>
+                            {/* <!--/.hm-footer-widget--> */}
+                        </div>
                         <div class=" col-md-3 col-sm-6 col-xs-12">
                             <div class="hm-footer-widget">
                                 <div class="hm-foot-title">
-                                    <h4>information</h4>
+                                    <h4>Suport</h4>
                                 </div>
                                 {/* <!--/.hm-foot-title--> */}
                                 <div class="hm-foot-menu">
                                     <ul>
-                                        <li><a href="#">about us</a></li>
+                                        <li><a href="#">FAQ</a></li>
                                         {/* <!--/li--> */}
-                                        <li><a href="#">contact us</a></li>
+                                        <li><a href="#">Shipping & Returns</a></li>
                                         {/* <!--/li--> */}
-                                        <li><a href="#">news</a></li>
+                                        <li><a href="#">Care guide</a></li>
                                         {/* <!--/li--> */}
-                                        <li><a href="#">store</a></li>
+                                        <li><a href="#">Redeem warranty</a></li>
                                         {/* <!--/li--> */}
                                     </ul>
                                     {/* <!--/ul--> */}
@@ -34,20 +53,18 @@ const NewsLetter = () => {
                         <div class=" col-md-3 col-sm-6 col-xs-12">
                             <div class="hm-footer-widget">
                                 <div class="hm-foot-title">
-                                    <h4>collections</h4>
+                                    <h4>Social Media</h4>
                                 </div>
                                 {/* <!--/.hm-foot-title--> */}
                                 <div class="hm-foot-menu">
                                     <ul>
-                                        <li><a href="#">wooden chair</a></li>
+                                        <li><a href="#">Instagram</a></li>
                                         {/* <!--/li--> */}
-                                        <li><a href="#">royal cloth sofa</a></li>
+                                        <li><a href="#">Facebook</a></li>
                                         {/* <!--/li--> */}
-                                        <li><a href="#">accent chair</a></li>
+                                        <li><a href="#">Twitter</a></li>
                                         {/* <!--/li--> */}
-                                        <li><a href="#">bed</a></li>
-                                        {/* <!--/li--> */}
-                                        <li><a href="#">hanging lamp</a></li>
+                                        <li><a href="#">TikTok</a></li>
                                         {/* <!--/li--> */}
                                     </ul>
                                     {/* <!--/ul--> */}
@@ -57,36 +74,24 @@ const NewsLetter = () => {
                             {/* <!--/.hm-footer-widget--> */}
                         </div>
                         {/* <!--/.col--> */}
-                        <div class=" col-md-3 col-sm-6 col-xs-12">
-                            <div class="hm-footer-widget">
-                                <div class="hm-foot-title">
-                                    <h4>my accounts</h4>
-                                </div>
-                                {/* <!--/.hm-foot-title--> */}
-                                <div class="hm-foot-menu">
-                                    <ul>
-                                        <li><a href="#">my account</a></li>
-                                        {/* <!--/li--> */}
-                                        <li><a href="#">wishlist</a></li>
-                                        {/* <!--/li--> */}
-                                        <li><a href="#">Community</a></li>
-                                        {/* <!--/li--> */}
-                                        <li><a href="#">order history</a></li>
-                                        {/* <!--/li--> */}
-                                        <li><a href="#">my cart</a></li>
-                                        {/* <!--/li--> */}
-                                    </ul>
-                                    {/* <!--/ul--> */}
-                                </div>
-                                {/* <!--/.hm-foot-menu--> */}
-                            </div>
-                            {/* <!--/.hm-footer-widget--> */}
-                        </div>
                         {/* <!--/.col--> */}
                         <div class=" col-md-3 col-sm-6  col-xs-12">
                             <div class="hm-footer-widget">
                                 <div class="hm-foot-title">
-                                    <h4>newsletter</h4>
+                                    <h4>About Us</h4>
+                                </div>
+                                <div class="hm-foot-menu">
+                                    <ul>
+                                        <li><a href="#">Ourstory</a></li>
+                                        {/* <!--/li--> */}
+                                        <li><a href="#">Designer</a></li>
+                                        {/* <!--/li--> */}
+                                        <li><a href="#">Craftmainship</a></li>
+                                        {/* <!--/li--> */}
+                                        <li><a href="#">Sustainability</a></li>
+                                        {/* <!--/li--> */}
+                                    </ul>
+                                    {/* <!--/ul--> */}
                                 </div>
                                 {/* <!--/.hm-foot-title--> */}
                                 <div class="hm-foot-para">

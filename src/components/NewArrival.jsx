@@ -6,7 +6,7 @@ const NewArrival = () => {
         <section id="new-arrivals" class="new-arrivals">
             <div class="container">
                 <div class="section-header">
-                    <h2>new arrivals</h2>
+                    <h2>Furniture</h2>
                 </div>
                 {/* <!--/.section-header--> */}
                 <div class="new-arrivals-content">

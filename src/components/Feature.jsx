@@ -8,6 +8,7 @@ const Feature = () => {
             <div class="container">
                 <div class="section-header">
                     <h2>featured products</h2>
+                    <p>This month’s best seller</p>
                 </div>
                 {/* <!--/.section-header--> */}
                 <div class="feature-content">

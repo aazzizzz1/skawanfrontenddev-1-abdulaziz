@@ -11,9 +11,7 @@ const SofaCollection = () => {
                         <div class="sofa-collection-txt">
                             <h2>unlimited sofa collection</h2>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                                laboris nisi ut aliquip ex ea commodo consequat.
+                            Sofa adalah tempat yang paling nyaman untuk berbaring dan duduk, banyak yang menjadikannya tujuan terakhir saat sedang berpergian. Tetapi seiring berjalannya waktu, harganya kian tak terjangkau. Kami hadir dengan terobosan baru, berbagai tipe dan harga terjangkau kami siapkan untuk anda. Dapatkan promo potongan harga 5% untuk 30 pembeli pertama. Tunggu apa lagi, miliki sofa idaman dengan harga impian.
                             </p>
                             <div class="sofa-collection-price">
                                 <h4>strting from <span>$ 199</span></h4>
@@ -35,9 +33,7 @@ const SofaCollection = () => {
                         <div class="sofa-collection-txt">
                             <h2>unlimited dainning table collection</h2>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                                laboris nisi ut aliquip ex ea commodo consequat.
+                            Sofa adalah tempat yang paling nyaman untuk berbaring dan duduk, banyak yang menjadikannya tujuan terakhir saat sedang berpergian. Tetapi seiring berjalannya waktu, harganya kian tak terjangkau. Kami hadir dengan terobosan baru, berbagai tipe dan harga terjangkau kami siapkan untuk anda. Dapatkan promo potongan harga 5% untuk 30 pembeli pertama. Tunggu apa lagi, miliki sofa idaman dengan harga impian.
                             </p>
                             <div class="sofa-collection-price">
                                 <h4>strting from <span>$ 299</span></h4>

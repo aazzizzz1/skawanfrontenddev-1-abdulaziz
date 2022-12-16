@@ -14,7 +14,7 @@ const Footer = () => {
                         <a href="#"><i class="fa fa-behance"></i></a>
                     </div>
                     <p>
-                        &copy;copyright. designed and developed by <a href="https://www.themesine.com/">themesine</a>
+                        &copy;copyright. designed and developed by <a href="https://github.com/aazzizzz1">Abdul Aziz</a>
                     </p>
                 </div>
             </div>

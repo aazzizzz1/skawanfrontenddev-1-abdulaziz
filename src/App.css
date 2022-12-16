@@ -790,7 +790,22 @@ span.feature-review {margin-left: 10px;}
   display: flex;
   align-items: center;
   height: 220px;
+  margin-bottom: 30px;
 }
+
+.clients h2 {
+  font-size: 30px;
+  font-weight: 700;
+  color: #5f5b57;
+}
+
+.clients p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #5f5b57;
+  margin-bottom: 20px;
+}
+
 .clients .item {text-align: center;}
 /*-------------------------------------
       10. News-letter
@@ -803,6 +818,11 @@ span.feature-review {margin-left: 10px;}
   font-weight: 700;
   margin-bottom: 45px;
 }
+
+.newsletter .desc{
+  margin-top: 40px;
+}
+
 .hm-foot-menu ul li a {
   color: #a09e9c;
   font-size: 16px;

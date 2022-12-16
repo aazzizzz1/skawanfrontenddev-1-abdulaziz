@@ -6,6 +6,10 @@ const Client = () => {
     return (
         <section id="clients" class="clients">
             <div class="container">
+                <div>
+                    <h2>25+</h2>
+                    <p>Partnered Brands</p>
+                </div>
                 <div class="owl-carousel owl-theme" id="client">
                     <div class="item">
                         <a href="#">

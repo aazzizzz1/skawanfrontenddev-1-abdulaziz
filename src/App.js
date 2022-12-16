@@ -6,6 +6,7 @@ import Footer from './components/Footer';
 import Hero from './components/Hero';
 import NewArrival from './components/NewArrival';
 import NewsLetter from './components/NewsLetter';
+import Partnership from './components/Partnership';
 import PopularProducts from './components/PopularProducts';
 import SofaCollection from './components/SofaCollection';
 
@@ -19,6 +20,7 @@ function App() {
       <Feature />
       <Blog />
       <Client />
+      <Partnership/>
       <NewsLetter />
       <Footer />
     </div>

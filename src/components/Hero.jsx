@@ -30,10 +30,7 @@ const Hero = () => {
                                                     <h4>great design collection</h4>
                                                     <h2>cloth covered accent chair</h2>
                                                     <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                                                        eiuiana smod tempor ut labore et dolore magna aliqua. Ut enim ad
-                                                        minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                                                        aliquip.
+                                                    The kind of furniture you have been looking for. This chair is made of high quality material and is very comfortable to sit on. We care about details and the quality of our products.
                                                     </p>
                                                     <div class="packages-price">
                                                         <p>
@@ -59,7 +56,7 @@ const Hero = () => {
                                         <div class="col-sm-5">
                                             <div class="single-welcome-hero">
                                                 <div class="welcome-hero-img">
-                                                    <img src="assets/images/slider/slider1.png" alt="slider image" />
+                                                    <img src="assets/images/slider/kursi 1.png" alt="slider image" />
                                                 </div>
                                                 {/* <!--/.welcome-hero-txt--> */}
                                             </div>
@@ -86,10 +83,7 @@ const Hero = () => {
                                                     <h4>great design collection</h4>
                                                     <h2>mapple wood accent chair</h2>
                                                     <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                                                        eiuiana smod tempor ut labore et dolore magna aliqua. Ut enim ad
-                                                        minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                                                        aliquip.
+                                                    The kind of furniture you have been looking for. This chair is made of high quality material and is very comfortable to sit on. We care about details and the quality of our products.
                                                     </p>
                                                     <div class="packages-price">
                                                         <p>
@@ -142,10 +136,7 @@ const Hero = () => {
                                                     <h4>great design collection</h4>
                                                     <h2>valvet accent arm chair</h2>
                                                     <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                                                        eiuiana smod tempor ut labore et dolore magna aliqua. Ut enim ad
-                                                        minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                                                        aliquip.
+                                                    The kind of furniture you have been looking for. This chair is made of high quality material and is very comfortable to sit on. We care about details and the quality of our products.
                                                     </p>
                                                     <div class="packages-price">
                                                         <p>
@@ -289,7 +280,7 @@ const Hero = () => {
                                     data-target="#navbar-menu">
                                     <i class="fa fa-bars"></i>
                                 </button>
-                                <a class="navbar-brand" href="index.html">sine<span>mkt</span>.</a>
+                                <a class="navbar-brand" href="index.html"><img src="assets/logo/deko.png" alt="" /></a>
 
                             </div>
                             {/* <!--/.navbar-header--> */}
@@ -298,11 +289,13 @@ const Hero = () => {
                             {/* <!-- Collect the nav links, forms, and other content for toggling --> */}
                             <div class="collapse navbar-collapse menu-ui-design" id="navbar-menu">
                                 <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
-                                    <li class=" scroll active"><a href="#home">home</a></li>
-                                    <li class="scroll"><a href="#new-arrivals">new arrival</a></li>
+                                    <li class=" scroll active"><a href="#home">Home</a></li>
+                                    <li class="scroll"><a href="#newsletter">About Us</a></li>
+                                    <li class="scroll"><a href="#new-arrivals">Furniture</a></li>
                                     <li class="scroll"><a href="#feature">features</a></li>
                                     <li class="scroll"><a href="#blog">blog</a></li>
-                                    <li class="scroll"><a href="#newsletter">contact</a></li>
+                                    <li class="scroll"><a href="#partnership">Parthnership</a></li>
+                                    <li class="scroll"><a href="#newsletter">Contact</a></li>
                                 </ul>
                                 {/* <!--/.n  av --> */}
                             </div>
