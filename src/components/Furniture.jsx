@@ -2,7 +2,7 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React from 'react'
 
-const Hero = () => {
+const Furniture = () => {
     return (
         <header id="home" class="welcome-hero">
 
@@ -315,4 +315,4 @@ const Hero = () => {
     )
 }
 
-export default Hero
+export default Furniture
